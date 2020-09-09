@@ -1,0 +1,7 @@
+D:\Gamedev\Study\C#Learning\LessonGB4\LessonGB4\bin\Debug\LessonGB4.exe.config
+D:\Gamedev\Study\C#Learning\LessonGB4\LessonGB4\bin\Debug\LessonGB4.exe
+D:\Gamedev\Study\C#Learning\LessonGB4\LessonGB4\bin\Debug\LessonGB4.pdb
+D:\Gamedev\Study\C#Learning\LessonGB4\LessonGB4\obj\Debug\LessonGB4.csprojAssemblyReference.cache
+D:\Gamedev\Study\C#Learning\LessonGB4\LessonGB4\obj\Debug\LessonGB4.csproj.CoreCompileInputs.cache
+D:\Gamedev\Study\C#Learning\LessonGB4\LessonGB4\obj\Debug\LessonGB4.exe
+D:\Gamedev\Study\C#Learning\LessonGB4\LessonGB4\obj\Debug\LessonGB4.pdb
