@@ -18,7 +18,16 @@ namespace LessonGB4
             int[] array = new int[size];
             Sum(array);
             SaveToFile("File.txt",size,array);
-            
+
+            StreamReader sr = new StreamReader("File.txt");
+
+            while (!sr.EndOfStream)  // Пока не конец потока (файла)
+            {
+                string s = sr.ReadLine();
+                Console.WriteLine(s);
+                
+            }
+
 
 
 
